@@ -1,0 +1,9 @@
+username: Sawal
+password: Admin123
+
+email : Aziz@gmail.com
+pw : Aziz1234
+
+Agent
+email : Firza@gmail.com
+pw: Firza1234
